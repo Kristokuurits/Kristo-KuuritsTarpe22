@@ -50,6 +50,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\bun.svg" />
+	  <None Remove="Resources\Images\chef.svg" />
+	  <None Remove="Resources\Images\chick.svg" />
+	  <None Remove="Resources\Images\fry.svg" />
+	  <None Remove="Resources\Images\hot.svg" />
+	  <None Remove="Resources\Images\mug.svg" />
+	  <None Remove="Resources\Images\sushi.svg" />
 	  <None Remove="Resources\Images\toit.svg" />
 	</ItemGroup>
 
