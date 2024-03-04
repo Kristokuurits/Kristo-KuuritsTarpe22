@@ -1,5 +1,5 @@
-using System;
 using Microsoft.Maui.Controls;
+using System;
 
 namespace Views
 {
@@ -10,10 +10,7 @@ namespace Views
             InitializeComponent();
         }
 
-        private async void ExploreButton_Clicked(object sender, EventArgs e)
-        {
-            await DisplayAlert("Explore", "You clicked the Explore button!", "Ok");
-        }
-
+        async void ExploreButton_Clicked(System.Object sender, System.EventArgs e)
+                => Application.Current.MainPage = new NavigationPage(new PAGEEEE());
     }
 }
