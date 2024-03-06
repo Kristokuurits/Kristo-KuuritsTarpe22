@@ -84,6 +84,17 @@
             Margin="350,-360,50,8"
             HeightRequest="1500"/>
 
+        <Image 
+            x:Name="imgkokk"
+            Opacity="1"
+            Source="kokk.png"
+            VerticalOptions="Start"
+            HorizontalOptions="Center"
+            WidthRequest="200"
+            Margin="-450,500,50,8"
+            HeightRequest="1500"/>
+        
+
         <StackLayout VerticalOptions="FillAndExpand">
             <Button 
                 Text="Explore Now"
