@@ -91,7 +91,7 @@
             VerticalOptions="Start"
             HorizontalOptions="Center"
             WidthRequest="200"
-            Margin="-450,500,50,8"
+            Margin="-350,550,30,8"
             HeightRequest="1500"/>
         
 
